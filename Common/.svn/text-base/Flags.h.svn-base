@@ -1,0 +1,41 @@
+/*
+ * Flags.h
+ *
+ *  Created on: Jan 17, 2011
+ *      Author: yotamhc
+ */
+
+#ifndef FLAGS_H_
+#define FLAGS_H_
+
+//#define TRACE_STATE_MACHINE
+//#define PRINT_AHO_CORASICK
+//#define PRINT_STATE_GENERATION
+#define PRINT_MATCHES
+//#define COUNT_FAIL_PERCENT
+//#define MIX_IDS
+//#define PRINT_CHAR_COUNT
+//#define PRINT_OUR_WC_PATTERNS
+//#define PRINT_LENGTH_HIST
+#define SIMPLE_USE_TABLE
+//#define FIND_FAIL_HISTOGRAM
+#define USE_DEPTHMAP
+//#define COUNT_BY_DEPTH
+//#define DEPTHMAP_INFOCOM
+//#define DEPTHJUMP_INFOCOM
+//#define COUNT_CALLS
+//#define X_RATIO // # of matches / # of root visits
+//#define PRINT_COMPRESSED_MACHINE
+//#define PRINT_MATCHING_TIME
+//#define PAPI
+//#define USE_DICTIONARY_ONLY_FOR_MARKED_PACKETS
+//#define COUNT_THROUGHPUT_ONLY_FOR_MARKED_PACKETS
+#define COUNT_DICTIONARY_SKIPPED_BYTES
+#define COUNT_MEMCMP_FAILURES
+#define DICT_USES_BLOOM
+//#define BLOOM_THIRD_FUNC
+#define HASH_PROBING
+
+#define TEST_BLOOM_PERF_ONLY
+
+#endif /* FLAGS_H_ */

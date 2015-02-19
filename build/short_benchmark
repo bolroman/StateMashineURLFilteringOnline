@@ -1,0 +1,34 @@
+echo Linear Encoding 1CPU
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/dump.bin -t -m:1
+echo Linear Encoding 2CPU
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/dump.bin -t -m:2
+echo Linear Encoding 3CPU
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/dump.bin -t -m:3
+echo Linear Encoding 4CPU
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/dump.bin -t -m:4
+echo Bitmap Encoding 1CPU
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/dump.bin -t -m:1
+echo Bitmap Encoding 2CPU
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/dump.bin -t -m:2
+echo Bitmap Encoding 3CPU
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/dump.bin -t -m:3
+echo Bitmap Encoding 4CPU
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/dump.bin -t -m:4
+echo Combined 1CPU
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/dump.bin -t -m:1
+echo Combined 2CPU
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/dump.bin -t -m:2
+echo Combined 3CPU
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/dump.bin -t -m:3
+echo Combined 4CPU
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/dump.bin -t -m:4
+echo Lookup Table 1CPU
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/dump.bin -t -m:1
+echo Lookup Table 2CPU
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/dump.bin -t -m:2
+echo Lookup Table 3CPU
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/dump.bin -t -m:3
+echo Lookup Table 4CPU
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/dump.bin -t -m:4
+echo Benchmark completed
+

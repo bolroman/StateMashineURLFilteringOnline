@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States
+END
+BitmapEncodedState.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/BitmapEncodedState.c
+END
+LinearEncodedState.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/LinearEncodedState.h
+END
+LookupTableState.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/LookupTableState.c
+END
+PathCompressedState.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/PathCompressedState.c
+END
+BitmapEncodedState.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/BitmapEncodedState.h
+END
+LookupTableState.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/LookupTableState.h
+END
+PathCompressedState.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/PathCompressedState.h
+END
+SimpleLinearEncodedState.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/SimpleLinearEncodedState.c
+END
+SimpleLinearEncodedState.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/SimpleLinearEncodedState.h
+END
+LinearEncodedState.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/States/LinearEncodedState.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Machines
+END
+snort_table_new.patterns
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Machines/snort_table_new.patterns
+END
+snort_table_new.states
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Machines/snort_table_new.states
+END
+snort_table_new.lookup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Machines/snort_table_new.lookup
+END

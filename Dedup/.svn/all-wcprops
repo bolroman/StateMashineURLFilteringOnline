@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup
+END
+Dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/Dictionary.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/deepness/!svn/ver/20/ddup/AC-HPSR11/src/Dedup/hash.c
+END
+DictionaryReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/deepness/!svn/ver/20/ddup/AC-HPSR11/src/Dedup/DictionaryReader.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/hash.h
+END
+bloom.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/bloom.c
+END
+Dictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/Dictionary.c
+END
+test_bloom.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepness/!svn/ver/16/ddup/AC-HPSR11/src/Dedup/test_bloom.c
+END
+bloom.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/bloom.h
+END
+DictionaryReader.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Dedup/DictionaryReader.c
+END

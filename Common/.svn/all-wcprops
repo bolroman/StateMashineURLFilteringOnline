@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Common
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/deepness/!svn/ver/21/ddup/AC-HPSR11/src/Common/Flags.h
+END
+StateTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Common/StateTable.c
+END
+PatternTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Common/PatternTable.c
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/deepness/!svn/ver/11/ddup/AC-HPSR11/src/Common/Types.h
+END
+StateTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Common/StateTable.h
+END
+PatternTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/Common/PatternTable.h
+END

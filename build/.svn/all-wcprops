@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build
+END
+benchmark_wc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build/benchmark_wc
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build/main
+END
+short_benchmark
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build/short_benchmark
+END
+benchmark
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build/benchmark
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/build/Makefile
+END

@@ -1,0 +1,38 @@
+echo Linear Encoding 1CPU
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_linear -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+echo Bitmap Encoding 1CPU
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_bitmap -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+echo Combined 1CPU
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_l10_b64 -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+echo Lookup Table 1CPU
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+./main -r:/tmp/dpi/Machines/snort_table -s:/tmp/dpi/dumps/linear_worst_dump.bin -t -m:1
+echo Benchmark completed
+

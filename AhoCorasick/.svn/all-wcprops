@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick
+END
+ACBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/ACBuilder.h
+END
+NodeQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/NodeQueue.h
+END
+FindLP.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/FindLP.h
+END
+ACBuilder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/ACBuilder.c
+END
+NodeQueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/NodeQueue.c
+END
+FindLP.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/FindLP.c
+END
+ACTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/deepness/!svn/ver/5/ddup/AC-HPSR11/src/AhoCorasick/ACTypes.h
+END
